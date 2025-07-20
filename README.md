@@ -1,5 +1,5 @@
 # Desafio JAVA10X: 
-##Herança e Arrays em Java ☕
+## Herança e Arrays em Java ☕
 
 E aí, beleza? Nesse projeto, meu foco foi mexer com herança em Java e também botar pra funcionar um menu interativo usando arrays.
 
@@ -22,7 +22,7 @@ No meio disso tudo, usei uns conceitos:
 
 ---
 
-###Um aprendizado novo:
+### Um aprendizado novo:
 
 Usei essa função para comparar o nome que o usuário digitou com os que já existem no array:
 
@@ -31,12 +31,12 @@ ninjaUchiha[i].nome.equalsIgnoreCase(buscaNinja)``
 
 Isso permite achar o ninja mesmo se o usuário digitar com letra maiúscula ou minúscula — tipo “Itachi” ou “itachi” são considerados a mesma coisa.
 
-###O que aprendi:
+### O que aprendi:
 - Como trabalhar com herança e estender classes no Java.
 - Usar arrays pra guardar objetos
 - Fazer menus que recebem opção do usuário e tratam exceção (pra não travar se o cara digita bobagem)
 
-###Rodando o projeto
+### Rodando o projeto
 - Clona o repo
 - Compila as classes
 - Roda a classe principal Desafio3
