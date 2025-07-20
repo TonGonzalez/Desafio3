@@ -1,4 +1,5 @@
-# Projeto Ninja: Herança e Arrays em Java ☕
+# Desafio JAVA10X: 
+##Herança e Arrays em Java ☕
 
 E aí, beleza? Nesse projeto, meu foco foi mexer com herança em Java e também botar pra funcionar um menu interativo usando arrays.
 
